@@ -1,0 +1,14 @@
+{
+  "release": "NimbusEval-2026.11",
+  "channel": "public",
+  "assets": [
+    {
+      "dataset": "gsm8k",
+      "upstream_note": "OpenAI grade-school math word-problem benchmark (8.5K train problems, English)."
+    },
+    {
+      "dataset": "c4",
+      "upstream_note": "Allen Institute for AI Colossal Clean Crawled Corpus, English web-text sample."
+    }
+  ]
+}

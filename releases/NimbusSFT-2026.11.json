@@ -1,0 +1,14 @@
+{
+  "release": "NimbusSFT-2026.11",
+  "channel": "public",
+  "assets": [
+    {
+      "dataset": "alpaca",
+      "upstream_note": "Stanford CRFM 52K instruction-following corpus generated with text-davinci-003."
+    },
+    {
+      "dataset": "squad",
+      "upstream_note": "Stanford NLP reading-comprehension dataset (SQuAD v1.1)."
+    }
+  ]
+}
